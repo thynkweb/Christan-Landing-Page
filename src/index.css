@@ -17,6 +17,8 @@ code {
 }
 
 .float-left{
-  padding: 0.5rem 1rem;
+  /* padding: 0.5rem 1rem; */
+  align-items: center !important;
+  display: flex !important;
 }
 

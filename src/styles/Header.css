@@ -58,8 +58,12 @@
     flex: 1;
 }
 nav ul a.descarga_la_app {
+    display: inline-block;
+    min-width: 172px;
+    text-align: center;
+    margin-left: 15px;
     color: #00E2A9 !important;
     background: #01484C;
     border-radius: 25px;
-    padding: 10px 40px;
+    padding: 10px 20px;
 }
